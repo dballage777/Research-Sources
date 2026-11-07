@@ -1,0 +1,47 @@
+rank,name,url,type,relevance,reliability,authority,depth_usefulness,accuracy,practical_value,currentness,community_reputation,weighted_total,status
+1,Petfoodology (Tufts Cummings School Clinical Nutrition Service),https://sites.tufts.edu/petfoodology/,academic/vet school,10,10,10,9,10,10,9,10,9.8,selected
+2,WSAVA Global Nutrition Guidelines and Toolkit,https://wsava.org/global-guidelines/global-nutrition-guidelines/,professional body,10,10,10,9,10,9,9,9,9.65,selected
+3,WSAVA – Selecting the Best Food for Your Pet (Global Nutrition Toolkit),https://wsava.org/wp-content/uploads/2021/04/Selecting-a-pet-food-for-your-pet-updated-2021_WSAVA-Global-Nutrition-Toolkit.pdf,professional body,10,10,10,7,10,10,6,9,9.3,selected
+4,Tufts Clinical Nutrition Service – Online Tools & Resources,https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/nutrition/online-tools-resources,academic/vet school,9,10,10,8,10,10,7,8,9.25,selected
+5,Merck Veterinary Manual – Dog Owners,https://www.merckvetmanual.com/dog-owners,reference,9,9,10,10,9,9,8,8,9.2,selected
+6,FDA – Questions & Answers: FDA's Work on Potential Causes of Non-Hereditary DCM in Dogs,https://www.fda.gov/animal-veterinary/animal-health-literacy/questions-answers-fdas-work-potential-causes-non-hereditary-dcm-dogs,government,9,10,10,8,10,8,7,8,9.05,selected
+7,Cornell Riney Canine Health Center – Canine Health Topics,https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics,academic/vet school,9,10,10,8,9,8,7,8,8.95,selected
+8,"Prevalence of Commonly Diagnosed Disorders in UK Dogs (VetCompass, BMC Veterinary Research 2021)",https://pmc.ncbi.nlm.nih.gov/articles/PMC7888168/,academic,9,10,9,9,10,7,6,8,8.9,selected
+9,AAFCO – Reading Pet Food Labels,https://www.aafco.org/consumers/understanding-pet-food/reading-labels/,regulatory,9,9,10,7,9,9,7,7,8.65,selected
+10,WSAVA Vaccination Guidelines,https://wsava.org/global-guidelines/vaccination-guidelines/,professional body,7,10,10,8,10,7,9,8,8.65,selected
+11,The Impact of Vegan Diets on Indicators of Health in Dogs and Cats: A Systematic Review (RCVS Knowledge),https://www.rcvsknowledge.org/resource/the-impact-of-vegan-diets-on-indicators-of-health-in-dogs-and-cats-a-systematic-review/,academic,8,10,9,9,10,6,7,7,8.6,selected
+12,Association for Pet Obesity Prevention – Body Condition Score Charts,https://www.petobesityprevention.org/body-condition-score-charts,nonprofit,9,9,8,7,9,10,8,8,8.55,selected
+13,ASPCA – People Foods to Avoid Feeding Your Pets,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets,nonprofit,9,9,9,6,9,10,7,9,8.55,selected
+14,Companion Animal Parasite Council (CAPC) Guidelines,https://capcvet.org/guidelines/,professional body,7,10,9,8,10,7,8,7,8.4,selected
+15,FDA – Get the Facts! Raw Pet Food Diets Can Be Dangerous to You and Your Pet,https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-raw-pet-food-diets-can-be-dangerous-you-and-your-pet,government,9,9,10,6,9,8,5,7,8.3,selected
+16,Dog Aging Project – Once-Daily Feeding Is Associated with Better Health in Companion Dogs,https://content.dogagingproject.org/once-daily-feeding-is-associated-with-better-health-in-companion-dogs/,academic research,8,9,9,7,9,7,8,8,8.2,selected
+17,ASPCA Animal Poison Control Center,https://www.aspca.org/pet-care/aspca-poison-control,nonprofit,7,9,9,6,9,10,7,9,8.15,selected
+18,VCA Animal Hospitals – General Feeding Guidelines for Dogs,https://vcahospitals.com/know-your-pet/nutrition-general-feeding-guidelines-for-dogs,veterinary practice,9,8,8,7,8,9,7,8,8.1,selected
+19,RVC VetCompass,https://www.rvc.ac.uk/vetcompass,academic research,8,9,9,7,9,6,8,8,8.1,selected
+20,"UC Davis – Homemade Dog Food Recipes Can Be Risky Business, Study Finds",https://www.ucdavis.edu/news/homemade-dog-food-recipes-can-be-risky-business-study-finds,academic,9,9,9,6,9,8,3,8,8.1,selected
+21,FDA – Pet Food and Treats,https://www.fda.gov/animal-veterinary/animal-health-literacy/pet-food-and-treats,government,8,9,10,6,9,7,7,6,8.05,selected
+22,PDSA Animal Wellbeing (PAW) Report,https://www.pdsa.org.uk/what-we-do/pdsa-animal-wellbeing-report,charity research,7,9,9,8,9,6,9,7,8.05,selected
+23,Whole Dog Journal – Food,https://www.whole-dog-journal.com/food/,independent media,9,7,7,8,7,9,10,8,7.95,selected
+24,"SkeptVet (Brennen McKenzie, VMD)",https://skeptvet.com/,independent expert,8,8,7,8,8,8,9,8,7.9,selected
+25,RSPCA – How to Feed Your Dog a Healthy Diet,https://www.rspca.org.uk/adviceandwelfare/pets/dogs/diet,charity,9,8,8,6,8,9,7,7,7.9,selected
+26,Balance It (Veterinary Nutritionist Recipe Tool),https://balance.it/,vet nutrition tool,8,8,8,7,8,9,7,7,7.85,selected
+27,AKC – Best Dog Food: How to Know What's Right for Your Dog,https://www.akc.org/expert-advice/nutrition/choosing-right-dog-food/,breed organization,9,7,7,7,7,9,10,7,7.75,selected
+28,Consumer Reports – Should You Feed Your Pet Raw Food?,https://www.consumerreports.org/pet-food/should-you-feed-your-pet-raw-food,consumer media,8,8,8,6,8,8,4,7,7.45,selected
+29,Association for Pet Obesity Prevention – Survey Data,https://www.petobesityprevention.org/survey-data,nonprofit,7,8,8,7,8,6,8,7,7.4,selected
+30,Wikipedia – Substances Poisonous to Dogs,https://en.wikipedia.org/wiki/Substances_poisonous_to_dogs,reference,8,7,6,7,7,8,8,6,7.15,selected
+,Merck Veterinary Manual – Nutrition: Small Animals (professional),https://www.merckvetmanual.com/management-and-nutrition/nutrition-small-animals,reference,8,9,10,10,8,6,7,7,8.5,near-miss: professional-level duplicate of Merck owner section
+,FDA – Complete and Balanced Pet Food,https://www.fda.gov/animal-veterinary/animal-health-literacy/complete-and-balanced-pet-food,government,8,9,10,5,9,7,5,6,7.8,near-miss: overlaps AAFCO labels page
+,Pet Poison Helpline,https://www.petpoisonhelpline.com/,commercial service,7,8,8,6,8,9,7,8,7.55,near-miss: overlaps ASPCA poison resources; fee-based
+,RVC – Most Common Disorders That Affect Our Dogs (PDF),https://www.rvc.ac.uk/Media/Default/VetCompass/Most%20common%20disorders%20that%20affect%20our%20dogs.pdf,academic,8,9,9,4,9,7,6,6,7.55,near-miss: infographic of selected VetCompass paper (dedupe)
+,FDA – Recalls & Withdrawals,https://www.fda.gov/animal-veterinary/safety-health/recalls-withdrawals,government,6,9,10,4,9,7,8,6,7.4,near-miss: general animal recalls list
+,Today's Veterinary Practice,https://todaysveterinarypractice.com/,journal,6,9,8,8,9,4,8,6,7.4,near-miss: professional audience
+,AAHA – Raw Meat Diets infection control brief (PDF),https://www.aaha.org/wp-content/uploads/globalassets/02-guidelines/infection-control/icpb_rawmeatpdf.pdf,professional body,8,9,9,4,9,6,4,6,7.35,near-miss: 2-page brief; overlaps FDA raw page
+,Ohio State – Companion Animal Nutrition Support Service,https://vmc.vet.osu.edu/services/companion-animal-nutrition-support-service,academic/vet school,6,9,9,4,9,6,7,6,7.1,"near-miss: service page, little owner content"
+,dvm360 – Is Feeding a Raw Meat-Based Diet Worth the Health Risks?,https://www.dvm360.com/view/is-feeding-a-raw-meat-based-diet-worth-the-health-risks-,trade media,8,8,7,6,8,5,6,6,7.05,near-miss: vet-audience; overlaps FDA raw page
+,SkeptVet – Nutrition Resources for Pet Owners (2014),https://skeptvet.com/2014/02/nutrition-resources-for-pet-owners/,independent expert,8,8,7,5,8,7,2,7,6.95,near-miss: dated; covered by SkeptVet main
+,Tufts Vet (YouTube),https://www.youtube.com/@TuftsVet,video,5,9,9,4,9,4,7,6,6.7,near-miss: general school channel
+,Wikipedia – Dog Food,https://en.wikipedia.org/wiki/Dog_food,reference,8,6,6,7,6,6,8,6,6.65,"near-miss: general overview, mixed sourcing"
+,ECVCN – European College of Veterinary and Comparative Nutrition,https://www.ecvcn.org/,professional body,5,9,9,3,9,5,7,6,6.65,near-miss: directory for finding specialists
+,Pet Nutrition Alliance,https://petnutritionalliance.org/,professional body,6,8,8,4,8,5,5,6,6.45,near-miss: aimed at veterinary teams
+,Science-Based Medicine – FDA & CDC Find Raw Pet Food Unpalatable,https://sciencebasedmedicine.org/fda-cdc-find-raw-pet-food-unpalatable/,independent media,7,7,6,5,7,5,3,6,6.1,near-miss: 2016; restates FDA/CDC data
+,Psychology Today – Dog Owners Are Wrong About the Health Benefits of Raw Diets,https://www.psychologytoday.com/us/blog/canine-corner/201703/dog-owners-are-wrong-about-the-health-benefits-raw-diets,media blog,7,6,6,4,6,5,2,5,5.55,near-miss: 2017 blog summary

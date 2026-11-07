@@ -1,0 +1,13 @@
+# PROGRESS: dog-health-and-diet
+- [x] Setup: topic confirmed, defaults stated; tools: WebSearch + curl
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 20 searches across official, academic, vet schools, charities, independent and media sources
+- [x] Pass 2 Expansion: Tufts resource lists, SkeptVet resource page, FDA DCM/raw pages, VetCompass paper
+- [x] Pass 3 Validation: about 60 URLs opened; titles, dates and content checked
+- [x] Pass 4 Community check (anecdotal; Reddit blocked)
+- [x] Pass 5 Cross-check (DCM, raw, vegan, obesity figures)
+- [x] Pass 6 Dedupe and clean
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (Purina Life Span Study, Morris GRLS, AAHA: all blocked, logged)
+- [x] Replacement loop: not needed (30 reached)
+- [x] Final verification: all 30 re-opened; 1 replaced (PMC vegan review, captcha, swapped for RCVS Knowledge page) and re-verified
