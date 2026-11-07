@@ -1,0 +1,58 @@
+rank,name,url,type,relevance,reliability,authority,depth_usefulness,accuracy,practical_value,currentness,community_reputation,weighted_total,status
+1,"One Useful Thing – An Opinionated Guide to Which AI to Use to Do Stuff (Ethan Mollick, Jul 2026)",https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22,independent expert,10,9,9,8,9,10,10,9,9.25,selected
+2,PCMag – The Best AI Chatbots We've Tested for 2026,https://www.pcmag.com/picks/the-best-ai-chatbots,media/review,10,8,8,9,8,9,10,7,8.8,selected
+3,Zapier – The Best AI Chatbots in 2026,https://zapier.com/blog/best-ai-chatbot/,media/review,10,8,7,9,8,10,10,7,8.75,selected
+4,Artificial Analysis,https://artificialanalysis.ai/,benchmark,8,9,8,9,9,8,10,8,8.6,selected
+5,Pew Research Center – ChatGPT Tops the List of Chatbots Americans Use,https://www.pewresearch.org/chart/chatgpt-tops-the-list-of-chatbots-americans-use-across-age-groups/,survey research,8,10,10,6,10,6,10,8,8.5,selected
+6,Anthropic Economic Index,https://www.anthropic.com/economic-index,primary data,8,9,9,9,9,6,10,7,8.5,selected
+7,NBER – How People Use ChatGPT (Working Paper 34255),https://www.nber.org/papers/w34255,academic,8,10,10,9,9,5,7,8,8.5,selected
+8,Stanford HAI – 2026 AI Index Report,https://hai.stanford.edu/ai-index/2026-ai-index-report,academic,6,10,10,10,9,5,9,9,8.5,selected
+9,ZDNET – The Best AI Chatbots of 2026: Expert Tested and Reviewed,https://www.zdnet.com/article/best-ai-chatbot/,media/review,10,8,7,9,8,9,8,7,8.45,selected
+10,Zapier – The Best ChatGPT Alternatives in 2026,https://zapier.com/blog/chatgpt-alternatives/,media/review,10,8,7,7,8,9,10,6,8.3,selected
+11,Epoch AI – AI Benchmarking Hub,https://epoch.ai/benchmarks,benchmark,6,10,9,9,9,6,9,8,8.25,selected
+12,Menlo Ventures – 2026: The State of Consumer AI,https://menlovc.com/perspective/2026-the-state-of-consumer-ai/,industry research,9,7,8,9,7,7,10,7,8.15,selected
+13,MeasuringU – The User Experience of AI-Based Chat Software (2026),https://measuringu.com/ai-based-chat-software-ux-2026/,UX research,8,9,8,8,9,6,10,6,8.15,selected
+14,Simon Willison's Weblog – LLMs,https://simonwillison.net/tags/llms/,independent expert,6,9,9,8,9,7,10,9,8.15,selected
+15,Columbia Journalism Review (Tow Center) – AI Search Has a Citation Problem,https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php,research/journalism,8,9,9,8,9,7,5,9,8.05,selected
+16,FutureSearch – Deep Research Bench Leaderboard,https://drb.futuresearch.ai/,benchmark,8,8,7,8,8,8,9,7,7.9,selected
+17,Microsoft Research – Working with AI: Measuring the Occupational Implications of Generative AI (arXiv),https://arxiv.org/abs/2507.07935,academic,8,9,9,8,8,5,6,8,7.85,selected
+18,OpenRouter – AI Model Rankings,https://openrouter.ai/rankings,usage data,7,8,7,8,8,7,10,8,7.75,selected
+19,Tom's Guide – AI Face-Offs,https://www.tomsguide.com/ai/face-off,media/review,10,6,6,7,6,9,10,7,7.7,selected
+20,SWE-bench,https://www.swebench.com/,benchmark,6,9,9,7,9,6,8,9,7.7,selected
+21,Scale AI – SEAL Leaderboards,https://labs.scale.com/leaderboard,benchmark,7,8,8,8,8,6,9,7,7.65,selected
+22,"eWeek – AI Chatbot Cheat Sheet: Comparing ChatGPT, Gemini, Copilot, and More",https://www.eweek.com/news/ai-chatbot-cheat-sheet-overview/,media/review,10,7,6,7,7,8,8,5,7.55,selected
+23,Stack Overflow 2025 Developer Survey – AI,https://survey.stackoverflow.co/2025/ai,survey research,7,8,8,8,8,7,6,8,7.5,selected
+24,a16z – The Top 100 Gen AI Consumer Apps (6th Edition),https://a16z.com/100-gen-ai-apps-6/,industry research,7,7,8,8,7,6,9,8,7.45,selected
+25,Cross-Platform Survey of AI Chat User Satisfaction (arXiv 2603.25220),https://arxiv.org/abs/2603.25220,academic,9,7,7,7,7,6,9,5,7.4,selected
+26,Zapier – The Best AI Personal Assistant Apps,https://zapier.com/blog/ai-personal-assistant/,media/review,7,7,7,7,7,7,9,5,7.1,selected
+27,UC Merced Library – Generative AI Tools Comparison,https://libguides.ucmerced.edu/artificial-intelligence/ai-tools/generative,library guide,9,7,7,6,6,8,6,4,7.05,selected
+28,Dove Medical Press – Comparative Analysis of AI Language Models' MCQ Performance vs Medical Students (2026),https://www.dovepress.com/a-comparative-analysis-of-ai-language-models-mcq-performance-versus-me-peer-reviewed-fulltext-article-AMEP,academic,7,8,7,7,8,5,9,3,7.05,selected
+29,Tom's Guide – ChatGPT vs Perplexity for Research,https://www.tomsguide.com/ai/i-tested-chatgpt-vs-perplexity-for-research-and-this-is-the-one-i-recommend,media/review,9,6,6,6,6,8,7,6,6.9,selected
+30,Tom's Guide – ChatGPT vs Gemini vs Claude: Which Chatbot Is the Biggest People-Pleaser,https://www.tomsguide.com/ai/i-tested-chatgpt-vs-gemini-vs-claude-to-see-which-chatbot-is-the-biggest-people-pleaser-one-went-way-too-far,media/review,8,6,6,6,6,7,9,6,6.8,selected
+,One Useful Thing – A Guide to Which AI to Use in the Agentic Era (Feb 2026),https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the,independent expert,10,9,9,8,9,9,8,9,8.95,near-miss: superseded by same author's Jul 2026 edition (dedupe)
+,Anthropic Economic Index – June 2026 report (Cadences),https://www.anthropic.com/research/economic-index-june-2026-report,primary data,7,9,9,9,9,5,10,6,8.15,near-miss: covered by Economic Index hub (dedupe)
+,Reuters Institute – Digital News Report 2026,https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026,research,5,10,10,8,9,4,10,7,7.9,"near-miss: news-use focus, little per-assistant task comparison"
+,Pew Research Center – About Half of U.S. Adults Now Use AI Chatbots,https://www.pewresearch.org/chart/about-half-of-u-s-adults-now-use-ai-chatbots-up-from-a-third-in-2024/,survey research,6,10,10,5,10,5,10,7,7.8,near-miss: same Pew Feb 2026 survey as selected chart (dedupe)
+,Claude pricing / plans (official),https://claude.com/pricing,official,7,8,9,5,8,7,10,3,7.35,near-miss: vendor self-description; one-sided
+,ChatGPT pricing / plans (official),https://chatgpt.com/pricing/,official,7,8,9,5,8,7,10,3,7.35,near-miss: vendor self-description; one-sided
+,Google Gemini subscriptions (official),https://gemini.google/subscriptions/,official,7,8,9,5,8,7,10,3,7.35,near-miss: vendor self-description; one-sided
+,Anthropic Economic Index – September 2025 report,https://www.anthropic.com/research/anthropic-economic-index-september-2025-report,primary data,6,9,9,8,9,4,6,6,7.3,near-miss: older edition (dedupe)
+,Microsoft Copilot (official),https://www.microsoft.com/en-us/copilot,official,6,8,9,4,8,6,10,3,6.9,near-miss: vendor marketing page
+,Humanity's Last Exam,https://lastexam.ai/,benchmark,4,9,8,6,9,3,8,7,6.6,"near-miss: capability benchmark, not task-to-assistant"
+,Interconnects (Nathan Lambert),https://www.interconnects.ai/,independent media,4,8,8,7,8,3,9,7,6.6,"near-miss: model-level, technical"
+,tech.co – Best Free and Paid AI Chatbots,https://tech.co/news/best-ai-chatbots,media/review,9,6,5,6,6,8,6,4,6.55,near-miss: last updated Dec 2025; includes affiliate-style picks
+,Understanding AI (Timothy B. Lee),https://www.understandingai.org/,independent media,4,8,8,6,8,4,9,7,6.55,near-miss: general AI coverage
+,Fortune – How to Know Which AI Tools Are Best for Your Business Needs,https://www.fortune.com/2025/07/15/how-to-decide-between-ai-tools-best-for-business-needs-with-examples-chatgpt-gemini-claude-copilot/,media,8,7,7,5,7,6,4,5,6.4,"near-miss: July 2025, dated models"
+,Aider LLM Leaderboards,https://aider.chat/docs/leaderboards/,benchmark,5,8,7,7,8,6,3,8,6.4,near-miss: last updated Nov 2025; coding-only
+,AI Explained (YouTube),https://www.youtube.com/@aiexplained-official,video,5,7,6,6,7,4,9,8,6.25,near-miss: general model news
+,Perplexity Hub (official blog),https://www.perplexity.ai/hub,official,5,7,8,4,7,5,10,3,6.2,near-miss: vendor blog
+,"LLM Leaderboard (llmleaderboard.com, formerly Vellum)",https://llmleaderboard.com/,benchmark aggregator,6,6,5,6,6,6,9,5,6.1,near-miss: aggregator; ownership after redirect unclear
+,Berkeley Function Calling Leaderboard,https://gorilla.cs.berkeley.edu/leaderboard.html,benchmark,3,8,8,6,8,3,7,6,6.0,near-miss: developer/API niche
+,EQ-Bench Creative Writing,https://eqbench.com/creative_writing.html,benchmark,6,6,5,5,6,6,8,6,5.9,near-miss: leaderboard loads via JS; content could not be fully read
+,Wikipedia – List of chatbots,https://en.wikipedia.org/wiki/List_of_chatbots,reference,5,7,6,5,6,4,8,6,5.85,"near-miss: list, not task comparison"
+,TWiT – ChatGPT vs Gemini vs Claude vs Perplexity deep research,https://twit.tv/posts/tech/chatgpt-vs-gemini-vs-claude-vs-perplexity-which-ai-does-deep-research-best-2026,media,8,4,5,4,4,6,10,4,5.75,"excluded: page states 'AI-generated, human-reviewed'"
+,UTSA – AI Essentials for Higher Ed Students: Popular Generative AI Tools,https://utsa.pressbooks.pub/aiessentialshigheredstudents/chapter/lesson-5-ethics-and-integrity/,educational,6,6,6,4,6,6,5,3,5.45,"near-miss: thin, 2025"
+,Hacker News – Ask HN: Latest consensus on OpenAI vs Anthropic $20/month tier?,https://news.ycombinator.com/item?id=47559143,community,7,4,4,4,4,6,8,6,5.3,near-miss: 15 comments; anecdotal
+,Notebookcheck – Microsoft Copilot study coverage,https://www.notebookcheck.net/Microsoft-Copilot-study-Knowledge-based-jobs-more-affected-by-AI-automation-than-expected.1078549.0.html,media,5,6,5,4,6,3,6,4,4.95,excluded: secondary coverage of arXiv 2507.07935 (copy)
+,TechRadar – AI as main search tool (CJR coverage),https://www.techradar.com/computing/artificial-intelligence/ive-got-bad-news-if-you-use-chatgpt-or-any-other-ai-as-your-main-search-tool,media,5,6,5,3,6,4,5,4,4.8,excluded: restates CJR study (copy)
+,"UF Business Library – Compare ChatGPT, Claude, Copilot, Gemini, Perplexity",https://answers.businesslibrary.uflib.ufl.edu/genai/faq/415504,library guide,7,5,6,3,4,4,1,3,4.6,"excluded: Oct 2024 table, outdated"

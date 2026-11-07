@@ -1,0 +1,13 @@
+# PROGRESS: ai-assistants-compared-by-task
+- [x] Setup: topic confirmed, defaults stated; tools available: WebSearch + curl (no WebFetch tool)
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 30 searches across primary, academic, community, benchmark/open-source, media and archive categories
+- [x] Pass 2 Expansion: Mollick archive, Anthropic Economic Index series, HN Algolia, library guides
+- [x] Pass 3 Validation: page text opened and checked for about 45 candidates
+- [x] Pass 4 Community check (anecdotal; Reddit blocked)
+- [x] Pass 5 Cross-check (Pew vs Menlo vs a16z; media roundups)
+- [x] Pass 6 Dedupe and clean
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (library guides, hidden-gem search)
+- [x] Replacement loop: not needed (30 reached)
+- [x] Final verification: all 30 URLs returned HTTP 200 on 2026-11-07

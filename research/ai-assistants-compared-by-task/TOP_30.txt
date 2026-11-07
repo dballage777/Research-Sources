@@ -1,0 +1,30 @@
+1. An Opinionated Guide to Which AI to Use to Do Stuff (One Useful Thing, Ethan Mollick) — https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22
+2. PCMag: The Best AI Chatbots We've Tested — https://www.pcmag.com/picks/the-best-ai-chatbots
+3. Zapier: The Best AI Chatbots — https://zapier.com/blog/best-ai-chatbot/
+4. Artificial Analysis — https://artificialanalysis.ai/
+5. Pew Research Center: ChatGPT Tops the List of Chatbots Americans Use — https://www.pewresearch.org/chart/chatgpt-tops-the-list-of-chatbots-americans-use-across-age-groups/
+6. Anthropic Economic Index — https://www.anthropic.com/economic-index
+7. How People Use ChatGPT (NBER Working Paper 34255) — https://www.nber.org/papers/w34255
+8. Stanford HAI AI Index Report 2026 — https://hai.stanford.edu/ai-index/2026-ai-index-report
+9. ZDNET: The Best AI Chatbots — https://www.zdnet.com/article/best-ai-chatbot/
+10. Zapier: The Best ChatGPT Alternatives — https://zapier.com/blog/chatgpt-alternatives/
+11. Epoch AI Benchmarking Hub — https://epoch.ai/benchmarks
+12. Menlo Ventures: 2026 State of Consumer AI — https://menlovc.com/perspective/2026-the-state-of-consumer-ai/
+13. MeasuringU: The User Experience of AI-Based Chat Software (2026) — https://measuringu.com/ai-based-chat-software-ux-2026/
+14. Simon Willison's Weblog (LLMs) — https://simonwillison.net/tags/llms/
+15. Tow Center (Columbia Journalism Review): AI Search Has a Citation Problem — https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php
+16. FutureSearch Deep Research Bench — https://drb.futuresearch.ai/
+17. Working with AI: Measuring the Occupational Implications of Generative AI (Microsoft Research) — https://arxiv.org/abs/2507.07935
+18. OpenRouter Rankings — https://openrouter.ai/rankings
+19. Tom's Guide AI Face-Offs — https://www.tomsguide.com/ai/face-off
+20. SWE-bench — https://www.swebench.com/
+21. Scale AI SEAL Leaderboards — https://labs.scale.com/leaderboard
+22. eWeek AI Chatbot Cheat Sheet — https://www.eweek.com/news/ai-chatbot-cheat-sheet-overview/
+23. Stack Overflow Developer Survey 2025: AI — https://survey.stackoverflow.co/2025/ai
+24. a16z Top 100 Gen AI Consumer Apps (6th Edition) — https://a16z.com/100-gen-ai-apps-6/
+25. Cross-Platform Survey of AI Chat User Satisfaction (arXiv 2603.25220) — https://arxiv.org/abs/2603.25220
+26. Zapier: The Best AI Personal Assistant Apps — https://zapier.com/blog/ai-personal-assistant/
+27. UC Merced Library: Generative AI Tools Comparison — https://libguides.ucmerced.edu/artificial-intelligence/ai-tools/generative
+28. A Comparative Analysis of AI Language Models' MCQ Performance Versus Medical Students (Advances in Medical Education and Practice) — https://www.dovepress.com/a-comparative-analysis-of-ai-language-models-mcq-performance-versus-me-peer-reviewed-fulltext-article-AMEP
+29. Tom's Guide: ChatGPT vs Perplexity for Research — https://www.tomsguide.com/ai/i-tested-chatgpt-vs-perplexity-for-research-and-this-is-the-one-i-recommend
+30. Tom's Guide: ChatGPT vs Gemini vs Claude People-Pleaser Test — https://www.tomsguide.com/ai/i-tested-chatgpt-vs-gemini-vs-claude-to-see-which-chatbot-is-the-biggest-people-pleaser-one-went-way-too-far
