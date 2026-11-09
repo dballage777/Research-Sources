@@ -1,0 +1,13 @@
+# PROGRESS: coloring-books-kdp-pod
+- [x] Setup: topic came with the task; defaults: all audiences, most current, English, any region; tools: WebSearch, curl and Playwright
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 30 searches across official platforms (KDP, Etsy, Lulu, IngramSpark, D2D, Blurb, Gumroad, TPT), government (USCO, USPTO), author organizations, independent media, open-source tools, archives and video
+- [x] Pass 2 Expansion: KDP help cross-links, Lulu help center, Etsy help center digital-listing articles, USCO AI reports, public-domain archives
+- [x] Pass 3 Validation: about 75 URLs opened; content and dates checked (e.g., Lulu blog Sept 2026, Kindlepreneur May 2026, IngramSpark modified July 2025)
+- [x] Pass 4 Community check (anecdotal; Reddit blocked; KDP Community threads would not render)
+- [x] Pass 5 Cross-check (low-content status, AI disclosure, upload cap, bleed, paper, DPI, Etsy AI rules, copyrightability)
+- [x] Pass 6 Dedupe and clean (Scribd mirrors and SEO/AI-farm vendor blogs removed)
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv; currentness raised to 10%; at most 10 KDP pages)
+- [x] Pass 8 Omission check (niche/overlooked search, Etsy digital-file and print articles, HN Algolia, public-domain archives)
+- [x] Replacement loop: not needed (30 reached)
+- [x] Final verification: all 30 re-opened with HTTP 200; none replaced

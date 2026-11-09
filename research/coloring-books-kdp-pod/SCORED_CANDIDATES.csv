@@ -1,0 +1,64 @@
+rank,name,url,type,relevance,reliability,authority,depth_usefulness,accuracy,practical_value,currentness,community_reputation,weighted_total,status
+1,KDP Content Guidelines (incl. AI-generated content disclosure),https://kdp.amazon.com/en_US/help/topic/G200672390,official platform (KDP),10,10,10,8,10,9,10,8,9.6,selected
+2,"KDP Set Trim Size, Bleed, and Margins",https://kdp.amazon.com/en_US/help/topic/GVBQ3CMEQW3W2VL6,official platform (KDP),10,10,10,8,10,10,9,8,9.6,selected
+3,KDP Low-Content Books,https://kdp.amazon.com/en_US/help/topic/GGE5T76TWKA85DJM,official platform (KDP),10,10,10,7,10,9,9,7,9.35,selected
+4,KDP Paperback Submission Guidelines,https://kdp.amazon.com/en_US/help/topic/G201857950,official platform (KDP),9,10,10,8,10,9,9,7,9.25,selected
+5,KDP Cover Calculator,https://kdp.amazon.com/cover-calculator,official tool (KDP),9,10,10,6,10,10,9,8,9.2,selected
+6,KDP Print Options,https://kdp.amazon.com/en_US/help/topic/G201834180,official platform (KDP),9,10,10,7,10,9,9,7,9.15,selected
+7,KDP Paperback Printing Cost,https://kdp.amazon.com/en_US/help/topic/G201834340,official platform (KDP),9,10,10,7,10,9,9,7,9.15,selected
+8,KDP Paperback Royalty,https://kdp.amazon.com/en_US/help/topic/G201834330,official platform (KDP),9,10,10,7,10,9,9,7,9.15,selected
+9,KDP Create a Paperback Cover,https://kdp.amazon.com/en_US/help/topic/G201953020,official platform (KDP),9,10,10,7,10,9,9,7,9.15,selected
+10,U.S. Copyright Office: Copyright and Artificial Intelligence,https://www.copyright.gov/ai/,government,8,10,10,9,10,7,10,8,9.1,selected
+11,Etsy Help: What Can I Sell on Etsy? (Creativity Standards and AI-generated content),https://help.etsy.com/hc/en-us/articles/360024112614-What-Can-I-Sell-on-Etsy,official platform (Etsy),9,10,10,7,10,8,9,7,9.05,selected
+12,Etsy Help: How to Manage Your Digital Listings,https://help.etsy.com/hc/en-us/articles/115015628347-How-to-Manage-Your-Digital-Listings,official platform (Etsy),9,10,10,7,10,9,8,7,9.05,selected
+13,KDP Metadata Guidelines for Books,https://kdp.amazon.com/en_US/help/topic/G201097560,official platform (KDP),8,10,10,8,10,9,9,6,9.0,selected
+14,"Lulu Blog: How to Create, Print, and Sell a Coloring Book",https://blog.lulu.com/create-a-coloring-book/,official platform (Lulu),10,9,8,8,9,9,10,6,8.9,selected
+15,U.S. Copyright Office: Registration Guidance for Works Containing AI-Generated Material,https://www.copyright.gov/ai/ai_policy_guidance.pdf,government,8,10,10,8,10,7,8,8,8.8,selected
+16,"U.S. Copyright Office: Copyright and AI Part 2, Copyrightability",https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf,government report,7,10,10,10,10,6,9,8,8.8,selected
+17,Kindlepreneur: How to Publish a Coloring Book in 5 Steps,https://kindlepreneur.com/how-to-publish-a-coloring-book/,independent media,10,8,8,8,8,9,10,9,8.75,selected
+18,Public Domain Image Archive (The Public Domain Review),https://pdimagearchive.org/,archive,8,9,9,8,9,9,9,8,8.65,selected
+19,Library of Congress: Free to Use and Reuse,https://www.loc.gov/free-to-use/,archive,7,10,10,8,10,8,8,7,8.65,selected
+20,Lulu Book Creation Guide,https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf,official platform (Lulu),8,9,9,9,9,9,8,7,8.6,selected
+21,USPTO Trademark Search,https://www.uspto.gov/trademarks/search,government,7,10,10,6,10,8,9,7,8.55,selected
+22,U.S. Copyright Office: How Long Does Copyright Protection Last?,https://www.copyright.gov/help/faq/faq-duration.html,government,7,10,10,6,10,8,8,7,8.45,selected
+23,Krita Manual,https://docs.krita.org/en/,open source,7,9,9,9,9,8,9,8,8.45,selected
+24,Lulu PDF Creation Settings,https://help.lulu.com/en/support/solutions/articles/64000255519-pdf-creation-settings,official platform (Lulu),8,9,9,7,9,9,8,6,8.35,selected
+25,Etsy Help: How Printed Items From Digital Purchases Work for Sellers,https://help.etsy.com/hc/en-us/articles/43476182453399-How-Printed-Items-From-Digital-Purchases-Work-for-Sellers,official platform (Etsy),8,9,10,6,9,7,10,5,8.35,selected
+26,NYPL Public Domain Collections,https://www.nypl.org/research/resources/public-domain-collections,archive,7,9,9,8,9,8,8,8,8.25,selected
+27,IngramSpark: How to Self-Publish a Coloring Book,https://www.ingramspark.com/blog/how-to-self-publish-a-coloring-book,official platform (IngramSpark),10,8,8,7,8,8,8,6,8.2,selected
+28,Kindlepreneur: Low Content Books,https://kindlepreneur.com/low-content-books/,independent media,9,8,8,7,8,8,9,8,8.2,selected
+29,"ALLi: AI for Authors, Ethical and Practical Guidelines",https://selfpublishingadvice.org/ai-for-authors-guidelines/,author organization,7,9,9,8,9,7,8,8,8.15,selected
+30,Lulu: Create Custom Coloring Books,https://www.lulu.com/create/coloring-books,official platform (Lulu),9,8,8,6,9,8,9,6,8.1,selected
+31,KDP Fix Paperback and Hardcover Formatting Issues,https://kdp.amazon.com/en_US/help/topic/G201834260,official platform (KDP),8,10,10,8,10,9,9,6,9.0,near-miss (diversity cap: max 10 KDP help pages)
+32,KDP Publishing Public Domain Content,https://kdp.amazon.com/en_US/help/topic/G200743940,official platform (KDP),8,10,10,7,10,8,9,6,8.8,near-miss (diversity cap: max 10 KDP help pages)
+33,KDP Tools and Resources,https://kdp.amazon.com/en_US/help/topic/G200735480,official platform (KDP),7,10,10,6,10,8,9,6,8.5,near-miss (diversity cap: max 10 KDP help pages)
+34,KDP Paperback and Hardcover Manuscript Templates,https://kdp.amazon.com/en_US/help/topic/G201834230,official platform (KDP),7,10,10,6,10,8,9,6,8.5,near-miss (diversity cap: max 10 KDP help pages)
+35,KDP Expanded Distribution,https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45,official platform (KDP),7,10,10,7,10,7,9,6,8.5,near-miss (diversity cap: max 10 KDP help pages)
+36,KDP Get an ISBN,https://kdp.amazon.com/en_US/help/topic/GTJ8LBXL6Z4WV5QX,official platform (KDP),6,10,10,6,10,7,9,6,8.2,near-miss (diversity cap: max 10 KDP help pages)
+37,IngramSpark: File Requirements for Print Books,https://www.ingramspark.com/blog/file-requirements-for-print-books,official platform (IngramSpark),7,9,9,7,9,8,8,6,8.05,near-miss (score below top 30)
+38,Etsy Help: Requirements and Best Practices for Images,https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop,official platform (Etsy),6,10,10,6,10,7,8,5,8.05,near-miss (score below top 30)
+39,KDP A+ Content Guidelines,https://kdp.amazon.com/en_US/help/topic/G4WB7VPPEAREHAAD,official platform (KDP),5,10,10,6,10,6,9,5,7.85,near-miss (score below top 30)
+40,USPTO Trademark Basics,https://www.uspto.gov/trademarks/basics,government,5,10,10,6,10,6,8,6,7.8,near-miss (score below top 30)
+41,GIMP Community Tutorials,https://www.gimp.org/tutorials/,open source,6,9,9,7,9,7,7,8,7.75,near-miss (score below top 30)
+42,Authors Guild: Amazon's New Disclosure Policy for AI-Generated Book Content,https://authorsguild.org/news/amazons-new-disclosure-policy-for-ai-generated-book-content-is-a-welcome-first-step/,author organization,7,9,9,6,9,6,7,7,7.7,near-miss (score below top 30)
+43,Kindlepreneur: KDP Interior Templates,https://kindlepreneur.com/kdp-interior-templates/,independent media,7,8,8,6,8,8,9,7,7.65,near-miss (score below top 30)
+44,ALLi: Amazon Rules for Authors (KDP rules roundup),https://selfpublishingadvice.org/amazon-rules-for-authors/,author organization,7,8,8,7,8,7,7,7,7.45,near-miss (score below top 30)
+45,Amazon Ads: Sponsored Products,https://advertising.amazon.com/solutions/products/sponsored-products,official platform (Amazon Ads),5,9,10,5,9,6,8,6,7.4,near-miss (score below top 30)
+46,Kindlepreneur: How to Fight Copyright Infringement,https://kindlepreneur.com/how-to-fight-copyright-infringement/,independent media,6,8,8,7,8,7,8,7,7.35,near-miss (score below top 30)
+47,#ColorOurCollections (New York Academy of Medicine Library),https://library.nyam.org/colorourcollections/,archive/community,7,8,8,6,8,6,8,7,7.35,near-miss (score below top 30)
+48,Authors Guild: Amazon Caps Daily Self-Publishing Uploads,https://authorsguild.org/news/amazon-adds-to-kdp-generative-ai-policy-caps-daily-self-publishing-uploads/,author organization,6,9,9,5,9,5,7,7,7.3,near-miss (score below top 30)
+49,Publishers Weekly: KDP Will Limit Daily Number of New Titles,https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93207-kdp-will-limit-daily-number-of-new-titles.html,trade media,6,9,9,5,9,5,7,7,7.3,near-miss (score below top 30)
+50,Gumroad Help Center,https://gumroad.com/help,official platform (Gumroad),6,8,8,6,8,7,8,6,7.2,near-miss (score below top 30)
+51,ALLi News: KDP AI Terms Place Limits on Titles,https://selfpublishingadvice.org/self-publishing-news-kdp-ai-new-limits-on-titles/,author organization,6,9,8,5,9,5,7,6,7.1,near-miss (score below top 30)
+52,AARP: How to Spot AI-Generated 'Slop Books',https://www.aarp.org/entertainment/books/how-to-spot-ai-slop-books-online/,media,6,8,8,6,8,5,9,6,7.1,near-miss (score below top 30)
+53,ALLi: What Authors Need to Know About Taxes on KDP Print Books,https://selfpublishingadvice.org/taxes-on-kdp-print-books/,author organization,5,8,8,6,8,6,8,6,6.9,near-miss (score below top 30)
+54,Wikimedia Commons: Category Line art,https://commons.wikimedia.org/wiki/Category:Line_art,archive (community),6,7,7,7,7,7,8,7,6.9,near-miss (score below top 30)
+55,Potrace (Wikipedia),https://en.wikipedia.org/wiki/Potrace,open source (reference),6,8,7,6,8,6,7,7,6.9,near-miss (score below top 30)
+56,Reusable Art,https://www.reusableart.com/,archive (independent),7,7,6,7,7,8,6,6,6.8,near-miss (score below top 30)
+57,Create Colouring Books With Affinity Publisher and Designer Using KDP Templates (Affinity Foundry Studio),https://www.youtube.com/watch?v=CJ388MaQYu8,video,8,6,6,7,7,9,5,6,6.8,near-miss (score below top 30)
+58,Create a Coloring Book With Your Own Art and Sell It on Amazon KDP (Rachel Harrison-Sund),https://www.youtube.com/watch?v=YMv0GHOz__w,video,8,6,6,7,7,9,5,6,6.8,near-miss (score below top 30)
+59,Coloring book (Wikipedia),https://en.wikipedia.org/wiki/Coloring_book,reference,6,7,7,7,7,4,8,7,6.6,near-miss (score below top 30)
+60,Draft2Digital,https://draft2digital.com/,official platform (D2D),4,8,8,5,8,5,8,6,6.5,near-miss (score below top 30)
+61,Blurb,https://www.blurb.com/,official platform (Blurb),4,8,8,5,8,5,8,6,6.5,near-miss (score below top 30)
+62,TPT (Teachers Pay Teachers),https://www.teacherspayteachers.com/,marketplace,4,8,8,4,8,5,8,7,6.45,near-miss (score below top 30)
+63,WeAreTeachers: 7 Tips for Opening a Teachers Pay Teachers Store,https://www.weareteachers.com/teachers-pay-teachers-tips/,media,6,7,6,6,7,7,6,6,6.4,near-miss (score below top 30)
