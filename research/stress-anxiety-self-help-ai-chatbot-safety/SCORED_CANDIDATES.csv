@@ -1,0 +1,49 @@
+rank,name,url,type,relevance,reliability,authority,depth_usefulness,accuracy,practical_value,currentness,community_reputation,weighted_total,status
+1,APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health (Nov 2025),https://www.infocop.es/wp-content/uploads/2025/11/health-advisory-ai-chatbots-wellness-apps-mental-health.pdf,professional assoc. (accessible copy),10,10,10,9,10,9,10,8,9.65,selected
+2,988 Suicide & Crisis Lifeline,https://988lifeline.org/,crisis service,10,10,10,7,10,10,10,9,9.5,selected
+3,Centre for Clinical Interventions – Anxiety Self-Help Resources,https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Anxiety,clinical CBT workbooks,10,10,9,10,10,10,7,9,9.5,selected
+4,Centre for Clinical Interventions – Worry and Rumination (Generalised Anxiety) Resources,https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination,clinical CBT workbooks,9,10,9,10,10,10,7,9,9.3,selected
+5,NHS Every Mind Matters – Online Self-Help CBT Techniques,https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/,government,10,9,10,7,9,10,10,8,9.2,selected
+6,WHO – Doing What Matters in Times of Stress: An Illustrated Guide,https://www.who.int/publications/i/item/9789240003927,intergovernmental,10,10,10,8,10,10,6,8,9.2,selected
+7,NIMH – I'm So Stressed Out! Fact Sheet,https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet,government,10,10,10,6,10,10,8,9,9.15,selected
+8,SAMHSA – 988 Suicide & Crisis Lifeline,https://www.samhsa.gov/mental-health/988,government,9,10,10,7,10,9,10,8,9.15,selected
+9,NIMH – Anxiety Disorders,https://www.nimh.nih.gov/health/topics/anxiety-disorders,government,9,10,10,8,10,8,8,8,9.0,selected
+10,Stanley-Brown Safety Planning Template (988 Lifeline),https://988lifeline.org/wp-content/uploads/2016/08/Brown_StanleySafetyPlanTemplate.pdf,clinical tool,10,10,10,6,10,10,6,9,8.95,selected
+11,NIMH – Caring for Your Mental Health,https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health,government,9,10,10,7,10,9,8,8,8.95,selected
+12,The Jed Foundation – Tech Companies and Policymakers Must Safeguard Youth Mental Health in AI Technologies,https://jedfoundation.org/artificial-intelligence-youth-mental-health-pov/,nonprofit,10,9,9,8,9,8,9,8,8.9,selected
+13,FDA Digital Health Advisory Committee – Generative AI-Enabled Digital Mental Health Medical Devices (Meeting Summary),https://www.fda.gov/media/190450/download,government,9,10,10,8,10,5,10,7,8.85,selected
+14,NIMH – Suicide Prevention,https://www.nimh.nih.gov/health/topics/suicide-prevention,government,8,10,10,8,10,8,8,8,8.8,selected
+15,Stanford HAI – Exploring the Dangers of AI in Mental Health Care,https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care,academic,10,9,9,7,9,7,9,8,8.65,selected
+16,NIMH – Psychotherapies,https://www.nimh.nih.gov/health/topics/psychotherapies,government,8,10,10,8,10,7,7,8,8.6,selected
+17,MIND – M-Health Index and Navigation Database,https://mindapps.org/,academic app database,9,9,8,8,9,9,9,7,8.6,selected
+18,NICE – Generalised Anxiety Disorder and Panic Disorder in Adults (CG113),https://www.nice.org.uk/guidance/cg113,clinical guideline,8,10,10,9,10,6,5,9,8.5,selected
+19,NHS – Breathing Exercises for Stress,https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/,government,9,9,10,4,9,10,10,7,8.5,selected
+20,Common Sense Media – Major AI Chatbots Unsafe for Teen Mental Health Support,https://about.commonsensemedia.org/press-room/press-releases/common-sense-media-finds-major-ai-chatbots-unsafe-for-teen-mental-health-support,nonprofit research,10,8,8,7,8,8,10,8,8.45,selected
+21,WHO – Ethics and Governance of AI for Health: Guidance on Large Multi-Modal Models,https://www.who.int/publications/i/item/9789240084759,intergovernmental,7,10,10,9,10,4,9,7,8.4,selected
+22,Beck Institute – Understanding CBT,https://beckinstitute.org/about/understanding-cbt/,CBT institute,8,9,10,7,9,7,8,9,8.35,selected
+23,Expressing Stigma and Inappropriate Responses Prevents LLMs from Safely Replacing Mental Health Providers (arXiv 2504.18412),https://arxiv.org/abs/2504.18412,academic,9,9,8,9,9,5,9,7,8.35,selected
+24,Public Health Communications Collaborative – Communicating about AI Chatbots and Mental Health,https://publichealthcollaborative.org/communication-tools/communicating-about-ai-chatbots-and-mental-health/,public health,10,8,8,6,8,9,10,6,8.3,selected
+25,Crisis Text Line,https://www.crisistextline.org/,crisis service,8,9,8,5,9,10,10,8,8.2,selected
+26,VA National Center for PTSD – Mobile Apps,https://www.ptsd.va.gov/appvid/mobile/index.asp,government,7,10,9,6,10,9,7,8,8.15,selected
+27,NHS – Generalised Anxiety Disorder (GAD),https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/,government,7,9,10,6,9,7,10,7,8.1,selected
+28,WHO – Anxiety Disorders Fact Sheet,https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders,intergovernmental,7,10,10,5,10,5,10,7,8.0,selected
+29,SAMHSA – Disaster Distress Helpline,https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline,government,6,10,10,4,10,8,10,7,7.95,selected
+30,Veterans Crisis Line,https://www.veteranscrisisline.net/,crisis service,6,10,10,4,10,8,9,8,7.9,selected
+,988 Lifeline – Get Help,https://988lifeline.org/get-help/,crisis service,9,10,10,4,10,9,10,8,8.7,near-miss: same site as 988 Lifeline home (dedupe)
+,SAMHSA – 988 Fact Sheet (PDF),https://www.samhsa.gov/sites/default/files/988-factsheet.pdf,government,8,10,10,4,10,8,6,7,7.95,near-miss: duplicate of SAMHSA 988 page
+,9-8-8 Suicide Crisis Helpline (Canada),https://988.ca/,crisis service,7,9,9,4,9,9,10,7,7.85,near-miss: below top-30 score cutoff
+,"EurekAlert – APA: AI, Wellness Apps Alone Cannot Solve Mental Health Crisis",https://www.eurekalert.org/news-releases/1105801,press release,9,9,8,4,9,6,10,6,7.75,near-miss: press release of selected APA advisory (dedupe)
+,DLA Piper – A Legislative and Enforcement Outlook for Mental Health Chatbots,https://www.dlapiper.com/en/insights/publications/2025/08/ai-mental-health-chatbots,legal analysis,9,8,7,8,8,6,8,6,7.75,near-miss: below top-30 score cutoff
+,Mental Health America – Online Screening Tools,https://screening.mhanational.org/,nonprofit,8,8,8,5,8,9,9,8,7.75,near-miss: below top-30 score cutoff
+,American Psychiatric Association – What Are Anxiety Disorders?,https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders,professional assoc.,7,9,10,6,9,6,7,7,7.7,near-miss: below top-30 score cutoff
+,American Foundation for Suicide Prevention,https://afsp.org/,nonprofit,6,9,9,6,9,6,10,8,7.7,near-miss: below top-30 score cutoff
+,Dartmouth – First Therapy Chatbot Trial Yields Mental Health Benefits (Therabot),https://tto.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits,academic,9,8,8,6,8,6,8,7,7.65,near-miss: below top-30 score cutoff
+,Find A Helpline,https://findahelpline.com/,crisis directory,8,8,7,5,8,9,10,7,7.65,near-miss: below top-30 score cutoff
+,The Trevor Project,https://www.thetrevorproject.org/,crisis service,6,9,8,5,9,8,10,8,7.6,near-miss: below top-30 score cutoff
+,"FDA – DHAC November 6, 2025 Meeting Announcement",https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-6-2025-digital-health-advisory-committee-meeting-announcement-11062025,government,7,10,10,4,10,3,10,5,7.55,near-miss: duplicate of meeting summary
+,Suicide Prevention Resource Center,https://sprc.org/,professional resource,5,10,9,7,10,4,9,7,7.55,near-miss: below top-30 score cutoff
+,NAMI HelpLine,https://www.nami.org/nami-helpline/,nonprofit,7,9,9,4,9,8,7,8,7.5,near-miss: below top-30 score cutoff
+,APA App Evaluation Model / MIND paper (PMC9873536),https://pmc.ncbi.nlm.nih.gov/articles/PMC9873536/,academic,7,9,8,8,9,5,6,6,7.45,near-miss: covered by MIND database
+,HelpGuide – Stress Management,https://www.helpguide.org/mental-health/stress/stress-management,nonprofit,9,7,7,7,7,8,6,7,7.4,near-miss: below top-30 score cutoff
+,American Psychiatric Association – The Basics of Augmented Intelligence,https://www.psychiatry.org/news-room/apa-blogs/the-basics-of-augmented-intelligence,professional assoc.,6,8,9,5,8,4,3,6,6.3,"near-miss: 2023, clinician-facing"
+,One Mind PsyberGuide,https://onemindpsyberguide.org/,app review,7,7,7,4,7,6,3,7,6.05,near-miss: page last updated 2024; maintenance unclear

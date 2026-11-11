@@ -1,0 +1,13 @@
+# PROGRESS: stress-anxiety-self-help-ai-chatbot-safety
+- [x] Setup: topic and preferences confirmed from the user's message; tools: WebSearch + curl
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 18 searches (NIMH, APA, SAMHSA, 988, CBT, WHO/NHS, AI-chatbot guidance, regulation, research)
+- [x] Pass 2 Expansion: safety-plan template, CCI workbooks, state laws, FDA DHAC, youth-safety orgs
+- [x] Pass 3 Validation: about 70 URLs opened; key PDFs read (APA advisory, FDA summary, Stanley-Brown)
+- [x] Pass 4 Community check (anecdotal; Reddit blocked)
+- [x] Pass 5 Cross-check (AI safety consensus across APA/JED/FDA/Common Sense; 988 practice via SAMHSA)
+- [x] Pass 6 Dedupe and clean
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (RAND, NEJM AI, FTC: blocked, logged; Therabot via Dartmouth scored)
+- [x] Replacement loop: not needed (30 reached)
+- [x] Final verification: all 30 URLs returned HTTP 200 on 2026-11-11

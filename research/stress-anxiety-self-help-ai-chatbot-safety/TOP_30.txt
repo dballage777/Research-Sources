@@ -1,0 +1,30 @@
+1. APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health (Nov 2025) — https://www.infocop.es/wp-content/uploads/2025/11/health-advisory-ai-chatbots-wellness-apps-mental-health.pdf
+2. 988 Suicide & Crisis Lifeline — https://988lifeline.org/
+3. Centre for Clinical Interventions – Anxiety Self-Help Resources — https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Anxiety
+4. Centre for Clinical Interventions – Worry and Rumination (Generalised Anxiety) Resources — https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination
+5. NHS Every Mind Matters – Online Self-Help CBT Techniques — https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/
+6. WHO – Doing What Matters in Times of Stress: An Illustrated Guide — https://www.who.int/publications/i/item/9789240003927
+7. NIMH – I'm So Stressed Out! Fact Sheet — https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet
+8. SAMHSA – 988 Suicide & Crisis Lifeline — https://www.samhsa.gov/mental-health/988
+9. NIMH – Anxiety Disorders — https://www.nimh.nih.gov/health/topics/anxiety-disorders
+10. Stanley-Brown Safety Planning Template (988 Lifeline) — https://988lifeline.org/wp-content/uploads/2016/08/Brown_StanleySafetyPlanTemplate.pdf
+11. NIMH – Caring for Your Mental Health — https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health
+12. The Jed Foundation – Tech Companies and Policymakers Must Safeguard Youth Mental Health in AI Technologies — https://jedfoundation.org/artificial-intelligence-youth-mental-health-pov/
+13. FDA Digital Health Advisory Committee – Generative AI-Enabled Digital Mental Health Medical Devices (Meeting Summary) — https://www.fda.gov/media/190450/download
+14. NIMH – Suicide Prevention — https://www.nimh.nih.gov/health/topics/suicide-prevention
+15. Stanford HAI – Exploring the Dangers of AI in Mental Health Care — https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care
+16. NIMH – Psychotherapies — https://www.nimh.nih.gov/health/topics/psychotherapies
+17. MIND – M-Health Index and Navigation Database — https://mindapps.org/
+18. NICE – Generalised Anxiety Disorder and Panic Disorder in Adults (CG113) — https://www.nice.org.uk/guidance/cg113
+19. NHS – Breathing Exercises for Stress — https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/
+20. Common Sense Media – Major AI Chatbots Unsafe for Teen Mental Health Support — https://about.commonsensemedia.org/press-room/press-releases/common-sense-media-finds-major-ai-chatbots-unsafe-for-teen-mental-health-support
+21. WHO – Ethics and Governance of AI for Health: Guidance on Large Multi-Modal Models — https://www.who.int/publications/i/item/9789240084759
+22. Beck Institute – Understanding CBT — https://beckinstitute.org/about/understanding-cbt/
+23. Expressing Stigma and Inappropriate Responses Prevents LLMs from Safely Replacing Mental Health Providers (arXiv 2504.18412) — https://arxiv.org/abs/2504.18412
+24. Public Health Communications Collaborative – Communicating about AI Chatbots and Mental Health — https://publichealthcollaborative.org/communication-tools/communicating-about-ai-chatbots-and-mental-health/
+25. Crisis Text Line — https://www.crisistextline.org/
+26. VA National Center for PTSD – Mobile Apps — https://www.ptsd.va.gov/appvid/mobile/index.asp
+27. NHS – Generalised Anxiety Disorder (GAD) — https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/
+28. WHO – Anxiety Disorders Fact Sheet — https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders
+29. SAMHSA – Disaster Distress Helpline — https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline
+30. Veterans Crisis Line — https://www.veteranscrisisline.net/
