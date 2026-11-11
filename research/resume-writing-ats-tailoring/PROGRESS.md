@@ -1,0 +1,13 @@
+# PROGRESS: resume-writing-ats-tailoring
+- [x] Setup: topic and preferences confirmed from the user's message; tools: WebSearch + curl
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 20 searches (NACE, SHRM, career centers, ATS makers, recruiters, government, academic)
+- [x] Pass 2 Expansion: career-center AI-ethics pages, NACE journal articles, Greenhouse reports, OPM rule
+- [x] Pass 3 Validation: about 80 URLs opened; PDFs read with pdftotext; dates recorded
+- [x] Pass 4 Community check (anecdotal; Reddit blocked, HN thin)
+- [x] Pass 5 Cross-check (file format, ATS auto-reject claim, AI fraud stats)
+- [x] Pass 6 Dedupe and clean
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (NACE AI articles, Yale/Stanford/Duke tailoring pages)
+- [x] Replacement loop: not needed (32 qualified; top 30 kept)
+- [x] Final verification: all 30 URLs returned HTTP 200 on 2026-11-11 (CMU URL normalized to single slash and re-verified)
