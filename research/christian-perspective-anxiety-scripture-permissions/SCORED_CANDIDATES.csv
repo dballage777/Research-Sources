@@ -1,0 +1,46 @@
+rank,name,url,type,relevance,reliability,authority,depth_usefulness,accuracy,practical_value,currentness,community_reputation,weighted_total,status
+1,APA Foundation – Mental Health: A Guide for Faith Leaders (Second Edition),https://www.apaf.org/getmedia/d5cdf69e-e9bb-4090-9b75-1b409c3e2369/APAF-Mental-Health-A-Guide-for-Faith-Leaders.pdf,professional assoc.,10,10,10,10,10,10,9,8,9.85,selected
+2,"HarperCollins Christian Publishing – Permissions (NIV, NIrV, NKJV, NCV, NET)",https://www.harpercollinschristian.com/sales-and-rights/permissions/,publisher permissions,10,10,10,8,10,10,9,8,9.55,selected
+3,"Duke Center for Spirituality, Theology and Health – Religiously-Integrated CBT Manuals and Workbooks",https://spiritualityandhealth.duke.edu/index.php/religious-cbt-study/therapy-manuals/,academic,10,10,10,9,10,10,6,8,9.55,selected
+4,ESV Copyright and Permissions (Crossway),https://www.esv.org/resources/esv-global-study-bible/copyright-page/,publisher permissions,10,10,10,6,10,10,7,8,9.15,selected
+5,"The Lockman Foundation – Permission to Quote (NASB, Amplified)",https://www.lockman.org/permission-to-quote-copyright-trademark-information/,publisher permissions,9,10,10,7,10,10,7,7,9.05,selected
+6,Berean Bible – Terms and Conditions (BSB Public Domain Dedication),https://berean.bible/terms.htm,translation license,10,10,9,6,10,10,9,7,9.05,selected
+7,World English Bible,https://worldenglish.bible/,translation license,10,10,9,6,10,10,8,7,9.0,selected
+8,Christian Standard Bible – Permissions (Holman),https://csbible.com/permissions/,publisher permissions,9,10,10,6,10,10,7,7,8.9,selected
+9,"Koenig – Religion, Spirituality, and Health: The Research and Clinical Implications (ISRN Psychiatry 2012)",https://pmc.ncbi.nlm.nih.gov/articles/PMC3671693/,academic,8,10,10,10,10,6,4,9,8.85,selected
+10,WHO – Doing What Matters in Times of Stress,https://www.who.int/publications/i/item/9789240003927,intergovernmental,7,10,10,8,10,10,6,8,8.8,selected
+11,APA Foundation – Faith and Mental Health,https://www.apaf.org/faith,professional assoc.,8,10,10,6,10,8,9,7,8.6,selected
+12,988 Suicide & Crisis Lifeline,https://988lifeline.org/,crisis service,7,10,10,5,10,10,10,9,8.6,selected
+13,"Duke Center for Spirituality, Theology and Health",https://spiritualityandhealth.duke.edu/,academic,8,10,10,7,10,6,8,8,8.55,selected
+14,Crossway – Permissions Requests,https://www.crossway.org/permissions/,publisher permissions,8,10,10,5,10,9,8,7,8.5,selected
+15,NET Bible – Copyright,https://netbible.org/bible/copyright,publisher permissions,8,10,9,6,10,9,7,7,8.45,selected
+16,American Psychiatric Association – Mental Health and Faith Community Partnership,https://www.psychiatry.org/psychiatrists/diversity/mental-health-and-faith-community-partnership,professional assoc.,8,10,10,6,10,7,7,7,8.4,selected
+17,Harvard Human Flourishing Program – Deaths of Despair and the Role of Religion,https://hfh.fas.harvard.edu/post/deaths-of-despair-and-the-role-of-religion,academic,8,9,10,7,9,5,8,8,8.15,selected
+18,U.S. Copyright Office – Fair Use Index,https://www.copyright.gov/fair-use/,government,6,10,10,7,10,6,8,7,8.1,selected
+19,Mental Health Grace Alliance,https://mentalhealthgracealliance.org/,Christian MH org,9,8,7,7,8,9,9,8,8.05,selected
+20,Hendrickson Publishers – Permissions (NLT Fair-Use Terms),https://www.hendricksonpublishers.com/permissions,publisher permissions,9,8,8,6,8,9,8,6,7.9,selected
+21,NAMI FaithNet,https://www.nami.org/community-and-culture/nami-faithnet/,nonprofit,8,9,9,5,9,8,7,7,7.9,selected
+22,Society for the Advancement of Psychotherapy – Addressing Religion and Spirituality in Psychotherapy,https://societyforpsychotherapy.org/addressing-religion-and-spirituality-in-psychotherapy-ethical-and-clinical-perspectives/,professional assoc.,8,9,8,7,9,6,7,6,7.8,selected
+23,Project Gutenberg – The King James Version of the Bible,https://www.gutenberg.org/ebooks/10,public-domain text,7,9,8,5,9,8,6,8,7.55,selected
+24,CAPS – Christian Association for Psychological Studies,https://caps.net/,Christian professional assoc.,8,8,8,6,8,6,10,7,7.55,selected
+25,Bible Gateway – Terms of Use,https://www.biblegateway.com/legal/terms/,platform terms,7,9,8,5,9,7,7,7,7.45,selected
+26,Wikipedia – King James Version (Copyright Status),https://en.wikipedia.org/wiki/King_James_Version,reference,8,7,7,8,7,7,8,7,7.4,selected
+27,Steve Laube Agency – Quote the Bible … Carefully,https://stevelaube.com/quote-the-bible-carefully/,industry guide,9,7,7,6,7,9,6,6,7.35,selected
+28,MinistryWatch – Bible Publishers: Stewards or Gatekeepers?,https://ministrywatch.com/bible-publishers-stewards-or-gatekeepers/,journalism,8,7,7,7,7,6,7,6,7.05,selected
+29,Hope for Mental Health (Saddleback Church),https://hope4mentalhealth.com/,church ministry,8,7,7,5,7,8,8,7,7.05,selected
+30,Lifeway Research – 1 in 4 Pastors & Congregants Suffer from Mental Illness,https://research.lifeway.com/2014/09/22/1-in-4-pastors-congregants-suffer-from-mental-illness/,survey research,7,8,8,6,8,5,3,7,6.9,selected
+,"APA Foundation – Mental Health: A Guide for Faith Leaders, Quick Reference",https://www.psychiatry.org/getContentAsset/65c13884-1ff9-45ae-b1b6-ac18fefbf82d/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Mental-Health-A-Guide-for-Faith-Leaders-Quick-Reference.pdf?language=en,professional assoc.,9,10,10,4,10,9,9,7,8.6,near-miss: summary of selected full guide (dedupe)
+,BJPsych Advances – Religion and Psychiatry: Recent Developments in Research,https://www.cambridge.org/core/journals/bjpsych-advances/article/religion-and-psychiatry-recent-developments-in-research/358B30940A36C1CD3AFE7991431BA1A9,academic,8,10,10,9,10,5,6,7,8.6,near-miss: full-text access could not be confirmed
+,Berean Bible – Free Licensing,https://berean.bible/licensing.htm,translation license,8,10,9,4,10,8,8,6,8.05,near-miss: duplicate of Berean terms
+,Duke – Religious CBT Study Design,https://spiritualityandhealth.duke.edu/index.php/religious-cbt-study/,academic,7,10,10,5,10,4,6,6,7.65,near-miss: same center as selected manuals page
+,Harvard T.H. Chan School – Regularly Attending Religious Services Associated with Lower Risk of Deaths of Despair,https://hsph.harvard.edu/news/regularly-attending-religious-services-associated-with-lower-risk-of-deaths-of-despair/,academic,7,9,10,5,9,4,5,7,7.35,near-miss: same study as Harvard HFH post (dedupe)
+,eBible.org – World English Bible History,https://ebible.org/webhistory.htm,translation license,7,9,8,5,9,5,5,6,7.1,near-miss: duplicate of WEB official site
+,Harvard Gazette – Religious Services May Lower Risk of Deaths of Despair,https://news.harvard.edu/gazette/story/2020/05/religious-services-may-lower-risk-of-deaths-of-despair/,academic news,7,9,9,4,9,4,5,6,7.0,near-miss: duplicate coverage of same study
+,Christianity Today – Younger Pastors More Likely to Say They Struggle With Mental Illness (Lifeway 2022),https://www.christianitytoday.com/2022/08/mental-health-pastors-church-members-lifeway-survey/,journalism,7,8,8,5,8,5,6,7,6.9,near-miss: secondary coverage of Lifeway survey; tie broken in favor of primary Lifeway report
+,eBible.org – Berean Standard Bible Copyright,https://ebible.org/engbsb/copyright.htm,translation license,8,8,7,3,8,7,8,5,6.85,near-miss: duplicate of Berean terms
+,Wikipedia – World English Bible,https://en.wikipedia.org/wiki/World_English_Bible,reference,8,7,6,6,7,6,8,6,6.8,near-miss: secondary to official WEB site
+,Bible Gateway – Versions List,https://www.biblegateway.com/versions/,reference,6,8,7,5,8,6,8,7,6.75,near-miss: list without permissions detail
+,FriesenPress – How to Quote Biblical Passages in Your Book,https://www.friesenpress.com/blog/2025/5/15/how-to-quote-biblical-passages-in-your-book,vendor blog,8,6,6,6,6,8,9,5,6.7,near-miss: below top-30 score cutoff
+,CCEF – How Do I Help Someone with Irrational Fears? (Ed Welch),https://www.ccef.org/video/irrational-fears,biblical counseling,7,7,7,4,7,6,4,7,6.3,near-miss: below top-30 score cutoff
+,CCEF – Resources,https://www.ccef.org/resources/,biblical counseling,6,7,7,4,7,5,8,7,6.2,near-miss: general index
+,Lifeway Research – Getting Beyond the Stigma of Mental Illness,https://research.lifeway.com/2014/11/11/getting-beyond-the-stigma-of-mental-illness/,survey research,6,7,7,4,7,5,3,6,5.9,"near-miss: commentary, 2014"

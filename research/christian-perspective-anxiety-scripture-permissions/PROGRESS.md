@@ -1,0 +1,13 @@
+# PROGRESS: christian-perspective-anxiety-scripture-permissions
+- [x] Setup: topic confirmed (follow-up to stress/anxiety topic); tools: WebSearch + curl
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: about 14 searches (publisher permissions, public-domain translations, RCBT research, religion and mental health, Christian counseling organizations, church surveys)
+- [x] Pass 2 Expansion: APA Foundation faith guide, Duke RCBT manuals, Berean/WEB licenses, NET terms
+- [x] Pass 3 Validation: about 70 URLs opened; quotation terms read directly from publisher pages; key PDFs checked
+- [x] Pass 4 Community check (anecdotal; Reddit blocked)
+- [x] Pass 5 Cross-check (ESV, NKJV and NLT limits vs blogs; integration vs biblical counseling)
+- [x] Pass 6 Dedupe and clean
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (AACC, Biblica, Tyndale, Cambridge: blocked, logged)
+- [x] Replacement loop: not needed (30 reached)
+- [x] Final verification: all 30 URLs returned HTTP 200 on 2026-11-12
